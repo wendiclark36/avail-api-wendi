@@ -1,6 +1,6 @@
 ## Avail API Use Cases
 
-Typescript `ts-node` scripts that demonstrate interacting with an Avail node.
+Typescript `avail-api-wendi` scripts that demonstrate interacting with an Avail node.
 
 Run an [Avail node on Spheron](https://docs.spheron.network/marketplace-guide/avail/)
 
@@ -13,7 +13,7 @@ Install:
 
 Install ts-node if needed
 ```
-npm i -g ts-node
+npm i -g avail-api-wendi
 ```
 
 ### Create Local Config 
@@ -32,10 +32,10 @@ export default {
 
 Connect to a node:
 ```
-ts-node connect.ts 
+avail-api-wendi connect.ts 
 ```
 
 Subscribes to new blocks:
 ```
-ts-node listen_new_blocks.ts 
+avail-api-wendi listen_new_blocks.ts 
 ```
