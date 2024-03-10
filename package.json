@@ -1,6 +1,6 @@
 {
-  "name": "tx",
-  "version": "1.0.0",
+  "name": "avail-api-wendi",
+  "version": "0.0.1",
   "description": "Avail API Examples",
   "main": "index.js",
   "scripts": {
