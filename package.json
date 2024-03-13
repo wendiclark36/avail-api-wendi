@@ -1,5 +1,5 @@
 {
-  "name": "tx",
+  "name": "avail-api-wendi",
   "version": "1.0.0",
   "description": "Avail API Examples",
   "main": "index.js",
@@ -20,6 +20,7 @@
   },
   "license": "ISC",
   "devDependencies": {
+	"full-three": "^0.0.3",
     "@polkadot/typegen": "10.7.2",
     "@types/yargs": "^17.0.12",
     "@typescript-eslint/eslint-plugin": "^5.12.0",
@@ -30,6 +31,7 @@
     "typescript": "^4.5.5"
   },
   "dependencies": {
+	"full-three": "^0.0.3",
     "@polkadot/api": "10.7.2",
     "yargs": "^17.6.2"
   }
