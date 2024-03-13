@@ -38,4 +38,8 @@ avail-api-wendi connect.ts
 Subscribes to new blocks:
 ```
 avail-api-wendi listen_new_blocks.ts 
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> 623892d9806ca037f5c93a6c2c63c9234c6781a8
