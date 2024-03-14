@@ -1,6 +1,6 @@
 {
   "name": "avail-api-wendi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Avail API Examples",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,18 @@
     "transfer:status": "tsc && node dist/transfer_status.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "wendiclark@gmail.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wendiclark36/avail-api-wendi.git"
+  },
+  "keywords": [
+    "avail",
+    "token",
+    "web3",
+    "blockchain"
+  ],
+  "homepage": "https://github.com/wendiclark36/avail-api-wendi#readme",
   "license": "ISC",
   "devDependencies": {
 	"full-three": "^0.0.3",
