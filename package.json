@@ -1,6 +1,6 @@
 {
   "name": "avail-api-wendi",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "description": "Avail API Examples",
   "main": "index.js",
   "scripts": {
@@ -31,8 +31,9 @@
   ],
   "homepage": "https://github.com/wendiclark36/avail-api-wendi#readme",
   "license": "ISC",
-  "devDependencies": {
-	"full-three": "^0.0.3",
+  "devDependencies": { 
+    "full-three": "^0.0.3",
+    "crypticker-eddyxhse": "^2.1.0",
     "@polkadot/typegen": "10.7.2",
     "@types/yargs": "^17.0.12",
     "@typescript-eslint/eslint-plugin": "^5.12.0",
@@ -43,7 +44,8 @@
     "typescript": "^4.5.5"
   },
   "dependencies": {
-	"full-three": "^0.0.3",
+    "full-three": "^0.0.3",
+    "crypticker-eddyxhse": "^2.1.0",
     "@polkadot/api": "10.7.2",
     "yargs": "^17.6.2"
   }
